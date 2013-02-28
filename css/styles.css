@@ -282,20 +282,20 @@ a:focus {
 
     Let's move to 'big thoughts' with centered text and custom font sizes.
 */
-#big {
+.big {
     width: 600px;
     text-align: center;
     font-size: 60px;
     line-height: 1;
 }
 
-#big b {
+.big b {
     display: block;
     font-size: 250px;
     line-height: 250px;
 }
 
-#big .thoughts {
+.big .thoughts {
     font-size: 90px;
     line-height: 150px;
 }
