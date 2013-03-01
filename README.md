@@ -1,4 +1,4 @@
-pimp-my-train
+Pimp My Train
 =============
 
-Presentation written with impress.js for the PLTW Pimp My Train project.
+"Team Potter" group presentation written with the incredible [impress.js](https://github.com/bartaz/impress.js/) for the PLTW Pimp My Train project.
